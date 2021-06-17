@@ -1,0 +1,1 @@
+chrome-extension://mfdhdgbonjidekjkjmjaneanmdmpmidf/userscript.html?name=YouTube%2520-%2520Ad%2520Skip.user.js&id=c45ef573-b3a0-45a4-8315-75090dcb00d6

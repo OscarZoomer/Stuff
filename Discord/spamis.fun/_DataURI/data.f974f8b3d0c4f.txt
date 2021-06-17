@@ -1,0 +1,1 @@
+chrome-extension://mfdhdgbonjidekjkjmjaneanmdmpmidf/content.js

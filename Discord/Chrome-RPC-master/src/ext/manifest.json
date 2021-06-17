@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "Chrome Discord Rich Presence",
+  "description": "A Custom Discord Rich Presence made by: [Clout] Freak1337#6101",
+  "version": "2",
+    
+  "background": {
+    "scripts": ["jquery-3.2.1.min.js", "background.js"],
+    "persistent": true
+  },
+
+  "browser_action": {},
+
+  "permissions": [
+    "https://*/",
+    "http://*/",
+    "tabs"
+  ],
+
+
+  "icons": {
+    
+  }
+
+}

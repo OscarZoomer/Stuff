@@ -1,0 +1,2 @@
+colorama==0.4.3
+mnemonic==0.19
