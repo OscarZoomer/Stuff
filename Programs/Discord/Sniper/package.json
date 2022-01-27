@@ -9,7 +9,7 @@
   "author": "Sqostik#4383",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.24.0",
     "center-align": "^1.0.1",
     "colors": "^1.4.0",
     "console-title": "^1.1.0",
